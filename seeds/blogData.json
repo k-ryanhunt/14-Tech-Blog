@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "HTML",
+    "description": "I miss the days when HTML was confusing and I thought that would be the hardest thing we ever learned.",
+    "user_email": "hattie.miller@html.com",
+    "user_id":1
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "description": "Nevermind. Meet FlexBox.",
+    "user_email": "cesar.siston@css.com",
+    "user_id":2
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "description": "This went downhill fast.",
+    "user_email": "javie.scripter@js.com",
+    "user_id":3
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hattie Miller",
+    "email": "hattie.miller@html.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Cesar Siston",
+    "email": "cesar.siston@css.com",
+    "password": "password1234"
+  },
+  {
+    "name": "Javie Scriptor",
+    "email": "javie.scripter@js.com",
+    "password": "password1234"
+  }
+]
